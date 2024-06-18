@@ -1,0 +1,4 @@
+# ExchangeOnline Automation Script
+
+This PowerShell script automates attributes within ExchangeOnline, an administrative interface allowing you to connect to different Microsoft environments via authentification. 
+
