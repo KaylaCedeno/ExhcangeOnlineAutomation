@@ -1,5 +1,8 @@
 Install-Module -Name ImportExcel
-Set-ExecutionPolicy RemoteSigned // in case settings don't allow you to run a script (& import libraries)
+
+// incase settings don't allow you to run a script (& import libraries)
+
+Set-ExecutionPolicy RemoteSigned 
 Import-Module ImportExcel
 
 
